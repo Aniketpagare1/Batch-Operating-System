@@ -1,0 +1,10 @@
+*
+**
+***
+**
+3: Time limit exceeded. Program terminated abnormally.
+SI: 2 PI: 0 TI: 2 TTC: 13 LLC: 5
+
+A MAN A PLAN A CANAL PANAMA 
+SI: 3 PI: 0 TI: 0 TTC: 21 LLC: 1
+
